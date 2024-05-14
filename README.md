@@ -1,5 +1,5 @@
-<div style="text-align:center;">
+<p align="center">
     <img src="dossr_logo.jpg" style="width:50%; height:auto;">
-</div>
+</p>
 
-# DoSSR: Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs
+## DoSSR: Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs
