@@ -6,10 +6,6 @@
 
 
 ## :date: Update
-The code will be released after the review.
-
-## :mag: Real-World SR Results
+The code is being organized and will be released soon.
 
 
-
-## :art: Visual Comparisons
