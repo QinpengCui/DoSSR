@@ -3,7 +3,9 @@
 </p>
 
 ## [NeurIPS 2024]DoSSR: Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs
-
+<div style="display: flex; justify-content: space-between;"> 
+  <img src="\assets\pipeline.jpg" style="width: 100%;"> 
+</div>
 
 ## :date: Update
 Our code review has been completed, and the code will be open-sourced within the next two days.
