@@ -13,7 +13,7 @@
 
 ## :computer: Installation
 ```python
-git clone https://github.com/QinpengCui/DoSSR.git
+git clone https://github.com/AMD-AIG-AIMA/DoSSR
 cd DoSSR
 
 # create environment
