@@ -8,7 +8,7 @@
 </div>
 
 ## :date: Update
-2024.11.26: Our code is now open source🎉 and available at: https://github.com/AMD-AIG-AIMA/DoSSR.
+### 2024.11.26: Our code is now open source🎉 and available at: https://github.com/AMD-AIG-AIMA/DoSSR.
 
 
 ## :computer: Installation
