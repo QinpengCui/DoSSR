@@ -2,6 +2,11 @@
     <img src="\assets\dossr_logo.jpg" style="width:50%; height:auto;">
 </p>
 
+
+
+
+## Note!!! Our code is now open source🎉 and available at: https://github.com/AMD-AIG-AIMA/DoSSR.
+
 ## [NeurIPS 2024]DoSSR: Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs
 <div style="display: flex; justify-content: space-between;"> 
   <img src="\assets\pipeline.jpg" style="width: 100%;"> 
