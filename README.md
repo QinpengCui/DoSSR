@@ -4,12 +4,22 @@
     <img src=".\assets\dossr_logo.jpg" style="width:50%; height:auto;">
 </p>
 
+<<<<<<< HEAD
 ## [NeurIPS 2024] DoSSR: Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs
+=======
+
+
+
+## Note!!! Our code is now open source🎉 and available at: https://github.com/AMD-AIG-AIMA/DoSSR.
+
+## [NeurIPS 2024]DoSSR: Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs
+>>>>>>> ddde40225f0d821f7e0483c911db146eb33f9ef8
 <div style="display: flex; justify-content: space-between;"> 
   <img src=".\assets\pipeline.jpg" style="width: 100%;"> 
 </div>
 
 ## :date: Update
+<<<<<<< HEAD
 2024.11.26: Our code is now open source🎉 and available at: https://github.com/AMD-AIG-AIMA/DoSSR.
 
 ## :mag_right: Visual Results on Real-World Super-Resolution
@@ -19,6 +29,9 @@
   <img src="./assets/compare_pictures/03.png" style="width: 49%; margin-bottom: 1%;">
   <img src="./assets/compare_pictures/04.png" style="width: 49%; margin-bottom: 1%;">
 </div>
+=======
+### 2024.11.26: Our code is now open source🎉 and available at: https://github.com/AMD-AIG-AIMA/DoSSR.
+>>>>>>> ddde40225f0d821f7e0483c911db146eb33f9ef8
 
 
 ## :computer: Installation
