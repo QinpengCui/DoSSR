@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 
 ## :globe_with_meridians: Inference
-The model is available in two versions, supporting multi-step generation and single-step generation, respectively. The pre-trained model weights are available at [onedrive](). The difference between the multi-step and single-step generation models is the preprocessing module: Real-ESRNet for multi-step and Real-ESRGAN for single-step.
+The model is available in two versions, supporting multi-step generation and single-step generation, respectively. The pre-trained model weights are available at [google drive](https://drive.google.com/drive/folders/1BTGRbAqXDSNWjyUnTLgDfmjd2xyu8GvP?usp=sharing). The difference between the multi-step and single-step generation models is the preprocessing module: Real-ESRNet for multi-step and Real-ESRGAN for single-step.
 
 #### Multi-step Generation
 ```python
